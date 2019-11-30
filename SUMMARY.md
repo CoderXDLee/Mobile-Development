@@ -16,4 +16,5 @@
     * [8 - Conclusion](android/your-first-kotlin-android-app/part-1-getting-started/8-conclusion.md)
   * [PART 2 - The Basics](android/your-first-kotlin-android-app/part-2-the-basics/README.md)
     * [1 - Introduction](android/your-first-kotlin-android-app/part-2-the-basics/1-introduction.md)
+    * [2 - Modifying the UI](android/your-first-kotlin-android-app/part-2-the-basics/2-modifying-the-ui.md)
 
