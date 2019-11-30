@@ -11,9 +11,21 @@ We created the empty start project in part one of this course along with a to-do
 
 add a Tap Me button,  add text for the game score,  add text for the time left. These three items are to add UI elements to Time Fighter, and that is always a good place to start.  Being able to see what you are building lets you get the ball rolling when you're developing an app. It's the first thing your user will see and interact with. The game logic and what happens when users interact with your UI are all behind the scenes in what are called activities. We'll get to activities in part three of this course.
 
-A well thought-out and intuitive UI goes a long way towards making a successful app. If the user does not understand how your app works, or if it is not clear what a specific button or control does, your users might not like using it. So, getting the UI right is essential. Thankfully, Android Studio gives you the necessary tools to build a good UI. The layout file `activity_main.xml`
+A well thought-out and intuitive UI goes a long way towards making a successful app. If the user does not understand how your app works, or if it is not clear what a specific button or control does, your users might not like using it. So, getting the UI right is essential. Thankfully, Android Studio gives you the necessary tools to build a good UI. The layout file `activity_main.xml` contains the definitions of your UI for your main activity.
 
 ![](../../../.gitbook/assets/part_2_10_activity_main_xml.jpg)
 
+Everything that you saw when you ran the Time Fighter app earlier is in this layout.
 
+Incidentally, layout is the technical term for these files containing an Android app layout, and the file extension XML indicates that this is an XML, or eXtended Markup Language file.
+
+![](../../../.gitbook/assets/part_2_10_activity_main_xml_text.jpg)
+
+If you're not familiar with XML, that's fine. It's just a markup format similar to HTML, which is what is used to create web pages.  Since XML is simply a text file,  you can edit these layouts with a text editor. Fortunately, Android Studio also has a visual editor to manage your layouts.
+
+Let's take a look.
+
+With your project open, drill down to app, res, layout, and then double-click activity\_main.xml. Here you can see our current layout.
+
+![](../../../.gitbook/assets/part_2_current_layout.jpg)
 
