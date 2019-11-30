@@ -1,4 +1,4 @@
-# 1 - Introduction
+# 9 - Introduction
 
 In part two of Your First Kotlin Android App, we are going to get elbow deep in Android Studio.  In part one of this course, we created a to-do list of everything we need to get our app finished.  
 
