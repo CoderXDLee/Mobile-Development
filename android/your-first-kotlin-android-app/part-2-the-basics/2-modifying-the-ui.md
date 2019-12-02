@@ -47,7 +47,9 @@ We add controls by way of the Palette.  It contains all the controls available t
 
 ![](../../../.gitbook/assets/part_2_10_text_category.jpg)
 
-Beneath the palette is the component tree. The component tree is a tree representation of the controls on the layout. The component tree is an easy way  to select a particular control on the layout when you have lots of controls in play.
+Beneath the palette is the component tree. The component tree is a tree representation of the controls on the layout. The component tree is an easy way  to select a particular control on the layout when you have lots of controls in play. Often times, you'll want to look for a specific control and thankfully, the search feature can help. In the search feature, type image and you'll see the image controls available to you. For now, we want to add a label  so select the Text category in the Palette, and then select TextView from the controls list. Drag the TextView on to the top left corner of the layout and then release. The alignment controls appear as you drag the TextView close to the top left edge as you can, following the layout guides. You'll notice that the text view appears in the component tree. If we select the Text tab, you can see new XML was added to reflect our new control. Switch back to the Design tab and run your app.
+
+Now we are up and running with not just one, but two text views.
 
 
 
